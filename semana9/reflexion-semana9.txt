@@ -1,0 +1,12 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades 
+funcionen de manera estable y segura en un servidor?
+
+Es importante porque garantizan el acceso continuo a la información y a los servidores 
+digitales. Además, permiten una comunicación eficiente entre los usuarios y facilitan el 
+desarrollo de actividades comunitarias. La seguridad del servidor protege datos personales 
+y evita accesos no autorizados, también reduce el riesgo de pérdida de información y fallos 
+técnicos que pueden afectar el funcionamiento de la plataforma.
+Un servidor estable mejora la confianza de los usuarios y asegura la disponibilidad de la 
+información, de esta manera las comunidades pueden aprovechar mejor las herramientas tecnológicas
+para su organización y desarrollo.  
+
